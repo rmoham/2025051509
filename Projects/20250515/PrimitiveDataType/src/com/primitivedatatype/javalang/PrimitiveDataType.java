@@ -28,6 +28,7 @@ public class PrimitiveDataType {
 		System.out.println();
 		System.out.println(Double.MIN_VALUE);
 		System.out.println(Double.MAX_VALUE);
+		System.out.println("That's it");
 	}
 
 }
