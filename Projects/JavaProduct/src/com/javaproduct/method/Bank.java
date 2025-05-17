@@ -35,7 +35,7 @@ public class Bank {
 		bank.deposit(500);
 		withdrawal(300);
 		System.out.println("Current Balance amount is "+currentBalance);
-		System.out.println("Thank you");
+		System.out.println("Thank you.");
 		
 	}
 }
